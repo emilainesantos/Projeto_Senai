@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 900px;
+    margin-left: 500px;
+}
+
+.div1{
+    border: 1px solid black;
+    width: 400px;
+    height: 200px;
+    background-color: aquamarine;
+    float: left;
+}
+
+.div2{
+    border: 1px solid black;
+    height: 200px;
+    background-color: thistle;
+}
+
+.div3{
+    border: 1px solid black;
+    width: 80%;
+    height: 600px;
+    float: left;
+    background-color: wheat;
+}
+
+.div4{
+    border: 1px solid black;
+    height: 600px;
+    background-color: yellowgreen;
+    
+}
+
+.div5{
+    border: 1px solid black;
+    height: 160px;
+    background-color: paleturquoise;
+}

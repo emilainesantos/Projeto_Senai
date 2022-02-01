@@ -1,0 +1,67 @@
+*body{
+    padding: 0;
+    margin: 0;
+}
+
+#container{
+    background: rgba(255, 255, 255, 0.986);
+    height: 616px;
+    width: 996px;
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+
+#banner{
+    background: rgba(61, 2, 2, 0.973);
+    height: 100px;
+    width: 996px;
+    position: relative;
+    top: 0px;
+    text-decoration: none;
+    margin: 20px 10px 0px;
+    text-transform: uppercase;
+    color: antiquewhite;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+
+    
+}
+
+#video1{
+    background: rgba(231, 33, 33, 0.986);
+    position: relative;
+    height: 255px;
+    width: 317px;
+    top: -1032px;
+    left: 355px;
+
+}
+
+#video2{
+    background: rgba(231, 33, 33, 0.986);
+    position: relative;
+    height: 255px;
+    width: 317px;
+    top: -1029px;
+    left: 355px;
+
+}
+
+#video3{
+    background: rgba(231, 33, 33, 0.986);
+    position: relative;
+    height: 255px;
+    width: 317px;
+    top: -1032px;
+    left: 677px;
+}
+
+#video4{
+    background: rgba(231, 33, 33, 0.986);
+    position: relative;
+    height: 255px;
+    width: 317px;
+    top: -1539px;
+    left: 677px;
+}

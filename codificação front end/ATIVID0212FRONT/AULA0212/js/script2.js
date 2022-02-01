@@ -1,0 +1,2 @@
+
+  alert("SEJA BEM - VINDO AO NOSSO SITE");
